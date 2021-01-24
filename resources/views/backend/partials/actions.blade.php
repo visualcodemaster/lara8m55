@@ -1,0 +1,1 @@
+<span class="details-control"><i class="fa fa-plus-circle"></i></span>
